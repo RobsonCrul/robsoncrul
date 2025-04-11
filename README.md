@@ -1,6 +1,7 @@
 ## Olá, meu nome é Robson Crul 👋
 
-- 🌱 Estudando React
+### Sou desenvolvedor web, minhas habilidades sãovoltadas para as principais tecnologias front-end como React, Javascript, Html e Css (Sass, TailwindCss).
+### Desenvolvo interfaces intuitivas e responsivas com foco na experiência do usuário. 
 
 <div>
   <a href="https://github.com/RobsonCrul">
@@ -21,5 +22,5 @@
  ##
 
 <div>
-  <a href="https://www.linkedin.com/in/robsoncrul/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/robsoncrul/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
